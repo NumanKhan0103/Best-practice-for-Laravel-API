@@ -57,6 +57,6 @@
 
 ###
 
-<h4 align="left">📌 Please keep in mind that the practices I've shared are based on my own suggestions, gathered from various articles and videos. If you happen to have even better ideas, don't hesitate to share them with me! I'm all ears. Your input would mean a lot to me. 🙌 Thanks a bunch in advance for your assistance!</h4>
+<h4 align="left">📌 Please take a moment to consider that the practices I've shared are based on my own suggestions, which I've gathered from various insightful articles 📚 and helpful videos. 🌟 If you happen to have any brighter ideas, don't hesitate to share them with me! I'm all ears. 🤝 Your input would be like a ray of sunshine to me. ☀️ Thank you in advance for your valuable assistance! 🙏</h4>
 
 ###
