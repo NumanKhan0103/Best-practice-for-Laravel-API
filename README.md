@@ -11,11 +11,11 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Numan Khan</h1>
+<h1 align="center">Hey there 👋 I'm Numan Khan</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Best Practice for Laravel API</h3>
+<h3 align="left">👩‍💻  Best Practice for Laravel Rest Full  API</h3>
 
 ###
 
@@ -57,10 +57,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
+<h4 align="left">📌 Please keep in mind that the practices I've shared are based on my own suggestions, gathered from various articles and videos. If you happen to have even better ideas, don't hesitate to share them with me! I'm all ears. Your input would mean a lot to me. 🙌 Thanks a bunch in advance for your assistance!</h4>
 
 ###
