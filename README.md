@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- ⚡ Laravel Package <br>- ⚡ Laravel Pint ( fix code style, space etc )<br>- ⚡ Larastan ( fix error, fix bug, analysis the code )</p>
+<p align="left">- ⚡ Laravel Pint ( fix code style, space etc )<br>- ⚡ Larastan ( fix error, fix bug, analysis the code )</p>
 
 ###
 
@@ -47,13 +47,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Code Base Best Practice</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-</div>
+<p align="left">- ⚡ Use Paginations <br>- ⚡ Use Cache ( like memcache ) for that data that not change or update quickly.<br>- ⚡ Use Eager Loading ( combine different table with relation using 'with'  )<br>- ⚡ Use Indexing in the Table ( speed up  your searching and fast execution of the query on server )<br>- ⚡ write Optimize Query ( only get needed data like if you only show username and email so don't get user all information form user table. only get username and email form user table )</p>
 
 ###
 
